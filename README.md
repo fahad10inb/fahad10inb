@@ -58,5 +58,6 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/fahad10inb/fahad10inb/output/snake.svg" alt="Snake animation" />
+
 </div>
