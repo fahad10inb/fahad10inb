@@ -58,5 +58,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad10inb&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
 </div>
