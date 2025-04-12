@@ -58,6 +58,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahad10inb/fahad10inb/output/snake.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/fahad10inb/fahad10inb/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
