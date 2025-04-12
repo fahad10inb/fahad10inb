@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad10inb&label=Profile%20views&color=0e75b6&style=flat" alt="fahad10inb" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahad10inb" alt="fahad10inb" /></a> </p>
+
 - 🔭 I’m currently working on [Stock Market Prediction](https://github.com/fahad10inb/Stock_prediction)
 
 - 🌱 I’m currently learning **Currently exploring Machine Learning**
