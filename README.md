@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 Currently building: **SyncTrek** - [📹 Watch Demo](https://github.com/fahad10inb/fahad10inb/blob/main/Project_1.mp4)
+- 🔭 Currently building: **SyncTrek** - [📹 Watch Demo](https://drive.google.com/file/d/1JJfnZcKQl-6d_8xaZZ7r1I9veoRDGnjM/view?usp=sharing)
 
 - 🌱 Deep-diving into: **Machine Learning** — real-world apps, model tuning, and impactful solutions.
 - 👨‍💻 All my projects live here: [github.com/fahad10inb](https://github.com/fahad10inb)
