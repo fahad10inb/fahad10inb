@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahad Fasalu Rahiman</h1>
 <h3 align="center">Aspiring AI Enthusiast | Tech Explorer | Future Entrepreneur</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahad10inb&label=Profile%20views&color=0e75b6&style=flat" alt="fahad10inb" />
 </p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fahad10inb&theme=dracula" alt="fahad10inb trophies" />
@@ -13,13 +11,13 @@
 
 ---
 
-- 🔭 Currently building: [Stock Market Prediction](https://github.com/fahad10inb/Stock_prediction)
+- 🔭 Currently building: **SyncTrek** - [📹 Watch Demo](https://github.com/fahad10inb/fahad10inb/blob/main/Project_1.mp4)
 
 - 🌱 Deep-diving into: **Machine Learning** — real-world apps, model tuning, and impactful solutions.
-
 - 👨‍💻 All my projects live here: [github.com/fahad10inb](https://github.com/fahad10inb)
-
 - 📫 Reach out: **fahadrahiman10@gmail.com**
+
+---
 
 ---
 
