@@ -159,6 +159,9 @@
 ### 💬 *"Building the future, one algorithm at a time"*
 
 <p>
+  <a href="https://fahad10-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/fahad-rahiman-3131a9255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
