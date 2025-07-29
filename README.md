@@ -116,7 +116,7 @@
 
 | Project | Description | Tech Stack | Demo/Link |
 |---------|-------------|------------|-----------|
-| **🚀 SyncTrek** | Revolutionary synchronization platform | React, Node.js, AI | **[📹 Watch Demo](https://drive.google.com/file/d/1JJfnZcKQl-6d_8xaZZ7r1I9veoRDGnjM/view?usp=sharing)** |
+| **🚀 SyncTrek** | Revolutionary synchronization platform | React, Node.js, AI | 📌 Pinned  |
 | **📈 Stock Prediction** | AI-powered market analysis | Python, ML, LSTM | ⭐ Featured |
 | **🎬 Movie Recommender** | Intelligent recommendation system | Python, ML, NLP | ✅ Complete |
 | **🤖 AI-dor-You** | Personal AI assistant | Python, NLP, API | 🔄 Evolving |
