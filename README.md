@@ -62,14 +62,10 @@ Turning ideas into intelligent, real-world solutions.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fahad10inb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=F85D7F&icon_color=F85D7F" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad10inb&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=F85D7F" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=fahad10inb&hide_border=true&theme=tokyonight&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=fahad10inb&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="Trophies" />
+<img src="./metrics.svg" alt="Fahad's GitHub metrics" />
 
 </div>
+
 
 ---
 
