@@ -1,0 +1,61 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fahad Fasalu Rahiman — AI Engineer and Builder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B0E14"/>
+      <stop offset="1" stop-color="#0F1626"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="730" cy="40" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F85D7F" stop-opacity="0.50"/>
+      <stop offset="0.45" stop-color="#7C5CFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
+      <animate attributeName="cx" values="730;655;765;730" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="40;95;15;40" dur="14s" repeatCount="indefinite"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="340" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#F85D7F"/>
+      <stop offset="0.35" stop-color="#B37CFF"/>
+      <stop offset="0.70" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#F85D7F"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="340 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F85D7F"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="240" rx="20" fill="url(#bg)"/>
+  <rect width="900" height="240" rx="20" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="899" height="239" rx="19.5" fill="none" stroke="#243049"/>
+
+  <!-- AI orb -->
+  <g transform="translate(748,120)">
+    <circle r="72" fill="none" stroke="#243049"/>
+    <g>
+      <circle r="72" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="4 12" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </g>
+    <circle r="30" fill="url(#name)"><animate attributeName="r" values="29;33;29" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle r="30" fill="none" stroke="#F85D7F" stroke-width="1.5">
+      <animate attributeName="r" values="30;58;30" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0;0.55" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="5" fill="#22D3EE"><animateMotion dur="9s" repeatCount="indefinite" path="M0,-72 A72,72 0 1,1 0,72 A72,72 0 1,1 0,-72"/></circle>
+  </g>
+
+  <!-- floating accents -->
+  <circle cx="600" cy="55" r="3" fill="#7C5CFF" opacity="0.7"><animate attributeName="cy" values="55;45;55" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="642" cy="188" r="2.5" fill="#22D3EE" opacity="0.6"><animate attributeName="cy" values="188;176;188" dur="6s" repeatCount="indefinite"/></circle>
+
+  <!-- text -->
+  <text x="60" y="66" font-family="'Segoe UI', Inter, Roboto, system-ui, sans-serif" font-size="14" font-weight="600" letter-spacing="4" fill="#8B93A7">HI, I'M</text>
+  <text x="57" y="118" font-family="'Segoe UI', Inter, Roboto, system-ui, sans-serif" font-size="44" font-weight="800" letter-spacing="-1" fill="url(#name)">Fahad Fasalu Rahiman</text>
+  <text x="60" y="152" font-family="'Segoe UI', Inter, Roboto, system-ui, sans-serif" font-size="18" font-weight="500" fill="#C7CEDB">AI Engineer · ML Builder · Future Entrepreneur</text>
+
+  <rect x="60" y="170" width="0" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="width" from="0" to="140" dur="1.1s" begin="0.2s" fill="freeze"/>
+  </rect>
+
+  <circle cx="64" cy="204" r="5" fill="#3DD68C"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="78" y="209" font-family="'Segoe UI', Inter, Roboto, system-ui, sans-serif" font-size="14" font-weight="500" fill="#8B93A7">Currently building <tspan fill="#C7CEDB" font-weight="700">SyncTrek</tspan></text>
+</svg>
