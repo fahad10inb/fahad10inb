@@ -38,3 +38,4 @@ jobs:
 
           # Concrete volume of code written
           plugin_lines: yes
+          plugin_lines_sections: history, repositories
