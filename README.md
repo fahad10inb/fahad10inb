@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Building **SyncTrek** — a real-time synchronization platform, focused on scalable architecture and clean UX
-- 🌱 Going deep on **machine learning** — model tuning, optimization, and applied deep learning
-- 🧠 Drawn to problems where AI creates real, measurable impact — not demos for their own sake
-- 🎯 Long game: launch a product-focused AI startup
+- 🔭 Building **[Hive](https://github.com/fahad10inb/hive)** — an outcome-driven AI agent framework with multi-agent execution and HITL controls
+- ⚡ Shipping **[Cricket Butterfly Effect](https://github.com/fahad10inb/cricket-bf)** — an AI alternate-universe cricket simulator with Express APIs and browser UX
+- 🧭 Advancing **[SyncTrek](https://github.com/fahad10inb/SyncTrek)** — an AI-powered, mobile-first travel planner currently in Android beta
+- 🌱 Focused on applied **AI/ML product building** — from agent systems to recommendation and evaluation workflows
 - 📫 Reach me at **fahadrahiman10@gmail.com**
 
 ---
@@ -22,16 +22,17 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=python,javascript,java,nodejs,react,html,css" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,express,flutter,dart,react,html,css" alt="languages"/>
 
 **AI / ML & Data**<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ai"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+<img src="https://img.shields.io/badge/LLM_APIs-Cerebras%20%C2%B7%20Groq%20%C2%B7%20Gemini-6A5ACD?style=for-the-badge" alt="llm providers"/>
 
 **Databases & Cloud**<br>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" alt="db"/>
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,firebase,mysql,vercel" alt="db"/>
 
 **Tools**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="tools"/>
@@ -42,12 +43,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🚀 **[SyncTrek](https://github.com/fahad10inb)** | Real-time synchronization platform | React · Node.js · AI |
-| 📈 **[Stock Prediction](https://github.com/fahad10inb)** | Market trend analysis with LSTM | Python · ML · LSTM |
-| 🎬 **[Movie Recommender](https://github.com/fahad10inb)** | Personalized recommendations | Python · ML · NLP |
-| 🤖 **[AI-dor-You](https://github.com/fahad10inb)** | Personal AI assistant | Python · NLP · APIs |
-
-<sub>↑ swap each link for the real repo URL</sub>
+| 🐝 **[Hive](https://github.com/fahad10inb/hive)** | Outcome-driven AI agent framework with goal loops, observability, and human-in-the-loop controls | Python · TypeScript · Docker |
+| 🏏 **[Cricket Butterfly Effect](https://github.com/fahad10inb/cricket-bf)** | AI-powered alternate-universe cricket history simulator with story generation and scenario branching | Express · JavaScript · Supabase · Vercel |
+| 🧳 **[SyncTrek](https://github.com/fahad10inb/SyncTrek)** | AI-powered travel planner that generates personalized itineraries for a mobile-first experience | Flutter · Dart · AI Agents |
+| 🤖 **[hiring-agent](https://github.com/fahad10inb/hiring-agent)** | AI resume evaluation workflow for screening and ranking candidates | Python · NLP · Automation |
 
 ---
 
