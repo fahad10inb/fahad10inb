@@ -11,10 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Building **[Hive](https://github.com/fahad10inb/hive)** — an outcome-driven AI agent framework with multi-agent execution and HITL controls
-- ⚡ Shipping **[Cricket Butterfly Effect](https://github.com/fahad10inb/cricket-bf)** — an AI alternate-universe cricket simulator with Express APIs and browser UX
-- 🧭 Advancing **[SyncTrek](https://github.com/fahad10inb/SyncTrek)** — an AI-powered, mobile-first travel planner currently in Android beta
-- 🌱 Focused on applied **AI/ML product building** — from agent systems to recommendation and evaluation workflows
+- 🛡️ Building **[Corrobo](https://github.com/fahad10inb/corrobo)** — an independent runtime verification layer for AI agent and tool actions, including ReceptionAI agent validation
+- 🗺️ Creating **[UAE Startup Map](https://github.com/fahad10inb/uae-startup-map)** — a verified, evidence-first directory and interactive map of UAE startups
+- 🏏 Shipping **[Cricket Butterfly Effect](https://github.com/fahad10inb/cricket-bf)** — an AI alternate-universe cricket simulator with Express APIs and browser UX
+- 🧭 Advancing **[SyncTrek](https://github.com/fahad10inb/SyncTrek)** — an AI-powered, mobile-first travel planner
+- 🌱 Focused on applied **AI/ML product building** — from agent systems and runtime verification to recommendation and evaluation workflows
 - 📫 Reach me at **fahadrahiman10@gmail.com**
 
 ---
@@ -43,8 +44,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🐝 **[Hive](https://github.com/fahad10inb/hive)** | Outcome-driven AI agent framework with goal loops, observability, and human-in-the-loop controls | Python · TypeScript · Docker |
-| 🏏 **[Cricket Butterfly Effect](https://github.com/fahad10inb/cricket-bf)** | AI-powered alternate-universe cricket history simulator with story generation and scenario branching | Express · JavaScript · Supabase · Vercel |
+| 🛡️ **[Corrobo](https://github.com/fahad10inb/corrobo)** | Independently verifies AI agent and tool actions against real system state, catching say-do gaps and proving genuine outcomes | Python · REST · PostgreSQL · MCP |
+| 🗺️ **[UAE Startup Map](https://github.com/fahad10inb/uae-startup-map)** | Evidence-first interactive map and directory of verified UAE startups, with funding, hiring, and methodology signals | React · Vite · TypeScript · Leaflet |
+| 🏏 **[Cricket Butterfly Effect](https://github.com/fahad10inb/cricket-bf)** | AI-powered alternate-universe cricket history simulator with story generation and scenario branching | Express · JavaScript · AI |
 | 🧳 **[SyncTrek](https://github.com/fahad10inb/SyncTrek)** | AI-powered travel planner that generates personalized itineraries for a mobile-first experience | Flutter · Dart · AI Agents |
 | 🤖 **[hiring-agent](https://github.com/fahad10inb/hiring-agent)** | AI resume evaluation workflow for screening and ranking candidates | Python · NLP · Automation |
 
